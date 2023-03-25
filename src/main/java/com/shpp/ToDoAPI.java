@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Task74Application {
+public class ToDoAPI {
 
     public static void main(String[] args) {
-        SpringApplication.run(Task74Application.class, args);
+        SpringApplication.run(ToDoAPI.class, args);
     }
 
 }
